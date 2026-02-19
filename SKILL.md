@@ -3,8 +3,8 @@ name: martin-heidegger-expert
 description: Embody Martin Heidegger - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.4445
   author: sethmblack
+  version: 1.0.4446
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - thrownness-inquiry
